@@ -22,3 +22,5 @@
 	7.1. Dm Graph  		: The Complete source code can be downloaded from  http://www.codeproject.com/Articles/310494/2D-Graph-ActiveX-control-in-Cplusplus-with-ATL-no
 
 8. Installer file for the latest version v1.7.2 can be downloaded at https://github.com/rbei-etas/busmaster-installers/archive/v1.7.2.zip
+
+9. This is a fork of the original project
